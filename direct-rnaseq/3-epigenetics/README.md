@@ -5,7 +5,7 @@ title: RNA Epigenetics
 
 | usegalaxy.eu |
 |:--------:|
-| <FlatShield label="workflow" message="run" href="https://usegalaxy.eu/u/milad/w/ont-drs-nanocompore-methylation-collection" alt="Galaxy workflow" /> |
+| <FlatShield label="Downsampling to reduce coverage bias" message="run" href="https://usegalaxy.eu/u/wolfgang-maier/w/sars-cov-2-assigned-ont-reads-downsampling-and-coverage-analysis" alt="Galaxy workflow" /> <FlatShield label="Nanocompore-based modification detection" message="run" href="https://usegalaxy.eu/u/milad/w/ont-drs-nanocompore-methylation-collection" alt="Galaxy workflow" /> <FlatShield label="Tombo-based modification detection" message="run" href="https://usegalaxy.eu/u/milad/w/sars-cov-2-ont-tombo-level-compare" alt="Galaxy workflow" /> |
 |  |
 
 
